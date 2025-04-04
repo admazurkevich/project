@@ -40,6 +40,8 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
+![](./image/kulyabov.jpg)
+
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
@@ -51,6 +53,8 @@ header-includes:
 
 :::
 ::: {.column width="30%"}
+
+![](./image/mazur.jpg)
 
 
 :::
