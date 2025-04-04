@@ -55,7 +55,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](./image/mazur.jpg)
+![](./image/mazur.png)
 
 
 :::
