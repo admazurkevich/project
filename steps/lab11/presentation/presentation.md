@@ -25,6 +25,21 @@ header-includes:
 
 # Информация
 
+## Преподаватель
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+  * Кулябов Дмитрий Сергеевич
+  * д.ф.-м.н., профессор
+  * профессор кафедры прикладной информатики и теории вероятностей
+  * Российский университет дружбы народов
+  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
+  * <https://yamadharma.github.io/ru/>
+
+:::
+::: {.column width="30%"}
+
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
