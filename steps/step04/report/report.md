@@ -102,12 +102,20 @@ header-includes:
 
 ![create user](image/7.png){#fig:007 width=70%}
 
-![язык](image/8.png){#fig:008 width=70%}
 
+Домашнее задание
+
+![смотрим](image/8.png){#fig:008 width=70%}
+
+![смотрим](image/9.png){#fig:009 width=70%}
+
+![смотрим](image/10.png){#fig:010 width=70%}
+
+![смотрим](image/11.png){#fig:011 width=70%}
 
 # Выводы
 
-Отредактировали сайт
+Установили и настроили Rocky
 
 # Список литературы{.unnumbered}
 
