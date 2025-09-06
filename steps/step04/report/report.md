@@ -1,7 +1,7 @@
 ---
 ## Front matter
-title: "Отчет проект"
-subtitle: "Шаг 4"
+title: "Отчет лаб1"
+subtitle: ""
 author: "Мазуркевич Анастасия Дмитриевна"
 
 ## Generic otions
@@ -74,27 +74,35 @@ header-includes:
 
 # Задание
 
-Редактировать сайт
+Установить Rocky
 
 
 
 # Выполнение лабораторной работы
 
-Ссылки на мои страницы
+Начинаем установкум и создание Rocky
 
-![Загружаем](image/1.png){#fig:001 width=70%}
+![создаем ](image/1.png){#fig:001 width=70%}
 
-Пост про отчеты
+Настраиваем машину
 
-![Пишем](image/2.png){#fig:002 width=70%}
+![Настраиваем](image/2.png){#fig:002 width=70%}
 
-Просмотр поста
+Включаем
 
-![Пост загрузился](image/3.png){#fig:003 width=70%}
+![Включаем](image/3.png){#fig:003 width=70%}
 
-Просмотр сайта
+Настройка
 
-![сайт](image/4.png){#fig:004 width=70%}
+![язык](image/4.png){#fig:004 width=70%}
+
+![настройка](image/5.png){#fig:005 width=70%}
+
+![kdump](image/6.png){#fig:006 width=70%}
+
+![create user](image/7.png){#fig:007 width=70%}
+
+![язык](image/8.png){#fig:008 width=70%}
 
 
 # Выводы
